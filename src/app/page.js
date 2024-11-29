@@ -11,6 +11,7 @@ export default function Page() {
     setIsOpen(false);
   };
   const submitModal = () => {
+    git;
     setIsOpen(false);
   };
   return (
